@@ -1,5 +1,6 @@
 #
 # Super simple example of a Dockerfile
+# test commit
 #
 FROM ubuntu:latest
 MAINTAINER Andrew Odewahn "odewahn@oreilly.com"
